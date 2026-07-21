@@ -1,0 +1,54 @@
+/* src/components/Projects.css */
+.projects-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.projects-heading {
+  font-size: 1.1em; 
+  margin-top: 0; 
+  margin-bottom: 20px;
+  color: var(--accent-color); 
+  font-weight: 700; 
+  text-align: center; 
+}
+
+.project {
+  margin-top: 20px;
+  margin-bottom: 20px; 
+}
+
+.project h3 {
+  font-size: 1.2em; 
+  margin: 0 0 5px; 
+  color: var(--text-color); 
+  font-weight: 500; 
+}
+
+.project-subtitle {
+  font-size: 0.9em;
+  color: var(--accent-color);
+  margin: 5px 0 5px; 
+}
+
+.project-description {
+  margin: 5px 0 5px;
+  color: var(--secondary-text);
+  line-height: 1.5;
+}
+
+.project-links {
+  display: flex;
+  gap: 12px;
+}
+
+.project-link {
+  text-decoration: none; 
+  color: var(--text-color); 
+  font-weight: 700; 
+}
+
+.project-link:hover {
+  color: var(--accent-color); 
+}
