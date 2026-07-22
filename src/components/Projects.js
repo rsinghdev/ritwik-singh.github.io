@@ -5,7 +5,7 @@ function Projects() {
   return (
     <div className="projects-container">
       <div className="project">
-        <h3>Caltech Summer Roomate Finder</h3>
+        <h3>Caltech Summer Roommate Finder</h3>
         <p className="project-subtitle"><em>Meet other Techers in your city</em></p>
         <p className="project-description">
           Webapp to find summer roommates and friends from Caltech. Built for HackTech 2025 with Next.js, Mapbox, Firebase, MongoDB, Vercel.</p>
@@ -68,27 +68,14 @@ function Projects() {
       </div>
       <hr />
       <div className="project">
-        <h3>Populations Impacted by Wildfire Evacuations</h3>
-        <p className="project-subtitle"><em>Analyzing Evacuation Demographics and Fire Risk Modeling</em></p>
+        <h3>Adaptive Blade Pitch Control</h3>
+        <p className="project-subtitle"><em>A Novel Approach to Increasing Wind Turbine Efficiency</em></p>
         <p className="project-description">
-          Compiled historical evacuation order data and population statistics for wildfire-prone regions in California.
-          Conducted a comparative analysis between observed evacuation zones and census data. 
-          Presented findings at the Fall 2021 American Geophysical Union conference.
+          Designed and simulated a 3D wind turbine model in Autodesk Fusion 360 with adaptive blade pitch, integrating sensor feedback (anemometers, potentiometers, wind vanes) for real-time angle adjustment.
+          Presented findings at the Fall 2025 American Geophysical Union conference.
         </p>
         <div className="project-links">
-          <a href="https://essopenarchive.org/doi/full/10.1002/essoar.10509549.2" className="project-link" target="_blank" rel="noopener noreferrer">paper</a>
-          <a href="https://github.com/sheftneal/wildfire-evacuation" className="project-link" target="_blank" rel="noopener noreferrer">code</a>
-        </div>
-      </div>
-      <hr />
-      <div className="project">
-        <h3>Plant Based Teen</h3>
-        <p className="project-subtitle"><em>Personal Sustainability Blog</em></p>
-        <p className="project-description">
-          Essays about veganism, sustainability, and environmental justice. Built with Ruby on Rails, PostgreSQL, and Heroku.
-        </p>
-        <div className="project-links">
-          <a href="https://github.com/jenaalsup/personal_blog" className="project-link" target="_blank" rel="noopener noreferrer">code</a>
+          <a href="https://essopenarchive.org/doi/full/10.22541/essoar.176556259.99226332/v1" className="project-link" target="_blank" rel="noopener noreferrer">paper</a>
         </div>
       </div>
       <hr />
