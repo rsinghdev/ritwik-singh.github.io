@@ -4,10 +4,10 @@ function Header({ theme, toggleTheme }) {
   return (
     <header className="App-header">
       <div className="header-content">
-        <h1>Jena<span className="bold">Alsup</span></h1>
+        <h1>Ritwik<span className="bold">Singh</span></h1>
         <div className="subtitle-container">
           <div className="location-line">
-            <span role="img" aria-label="pin">📍</span>San Francisco
+            <span role="img" aria-label="pin">📍</span>New Jersey
           </div>
         </div>
       </div>
