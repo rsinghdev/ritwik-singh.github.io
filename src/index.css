@@ -29,12 +29,12 @@
   --tree-trunk: #8a6950;
   --blossom-petal: #e8a0b5;
   --blossom-center: #f6dce5;
-  --calendar-empty: #20372b;
-
-  --calendar-l1: #294d37;
-  --calendar-l2: #3f7653;
-  --calendar-l3: #5fae73;
-  --calendar-l4: #7bd389;
+  --calendar-empty: #edf7f0;
+  
+  --calendar-l1: #d8f0df;
+  --calendar-l2: #a9dcb8;
+  --calendar-l3: #6fbd87;
+  --calendar-l4: #2f7d4a;
 }
 
 body {
