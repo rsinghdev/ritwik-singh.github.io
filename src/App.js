@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 import Home from './components/Home';
 import Projects from './components/Projects';
 import Misc from './components/Misc';
+import Blog from './components/Blog';
 
 function App() {
   const [theme, setTheme] = useState('light');
@@ -22,7 +23,7 @@ function App() {
     <Router>
       <div className="App">
         <div className="top-bar">
-          <span className="site-title">jena alsup</span>
+          <span className="site-title">Ritwik Singh</span>
           <div className="top-bar-right">
           <Navigation />
           <button
@@ -38,6 +39,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/projects" element={<Projects />} />
+            <Route path="/blog" element={<Blog />} />
             <Route path="/misc" element={<Misc />} />
           </Routes>
         </main>

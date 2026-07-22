@@ -5,22 +5,17 @@ function Home() {
   return (
     <div className="home-content">
       <p className="home-lead">
-        Hi! I'm Jena, an engineer at{' '}
-        <a href="https://www.untillabs.com/" target="_blank" rel="noopener noreferrer">
-          Until Labs
-        </a>{' '}
-        working to build a pause button on biology.
+        Hi! I'm Ritwik, a chemical engineering student at the University of Delaware.{' '}
+        On campus, I'm studying wind turbines wakes in the <a href="https://sites.udel.edu/ceoe-carcher/research/" target="_blank" rel="noopener noreferrer">Archer Lab</a>.{' '}
+        
       </p>
 
       <p>
-        Formerly, I worked on software at{' '}
-        <a href="https://exa.ai/" target="_blank" rel="noopener noreferrer">Exa</a>,{' '}
-        <a href="https://yuzu.health/" target="_blank" rel="noopener noreferrer">Yuzu Health</a>, and{' '}
-        <a href="https://www.apple.com/" target="_blank" rel="noopener noreferrer">Apple</a>.
-        I completed my undergraduate studies in computer science at Caltech,
-        where I studied early human embryos in the{' '}
-        <a href="https://zernickagoetzlab.com/" target="_blank" rel="noopener noreferrer">Zernicka-Goetz Lab</a>.
-        I'm interested in control systems, machine learning, and full-stack development.
+        Previously, I worked on research at{' '}
+        <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer">NASA</a>,{' '}
+        <a href="https://www.princeton.edu/" target="_blank" rel="noopener noreferrer">Princeton University</a>, and{' '}
+        <a href="https://www.hyalotechnologies.com/" target="_blank" rel="noopener noreferrer">Hyalo Technologies</a>.
+        I'm interested in renewable energy, sustainability, and machine learning.
       </p>
 
       <CherryBlossomTree />
