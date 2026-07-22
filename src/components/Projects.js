@@ -53,17 +53,14 @@ function Projects() {
       </div>
       <hr />
       <div className="project">
-        <h3>Compost Share</h3>
-        <p className="project-subtitle"><em>Find and Share Composting Spots</em></p>
+        <h3>Chemical Agents in World War 1 and 2</h3>
+        <p className="project-subtitle"><em>Interdisciplinary Analysis of Chemical Warfare</em></p>
         <p className="project-description">
-          Interactive web app which allows users to share, post, and look for local composting stations.
-          Built with React, MongoDB, and the Google Maps API.
-          Won first place at Cal Earth Hacks 2020.
+          Studied chemical weapon development, biochemical effects, and the ethical failures surrounding wartime deployment.
+          Published in ACS Bulletin for the History of Chemistry, 2026.
         </p>
         <div className="project-links">
-          <a href="https://compost-share.netlify.app/" className="project-link" target="_blank" rel="noopener noreferrer">project</a>
-          <a href="https://github.com/meiaalsup/compost-share" className="project-link" target="_blank" rel="noopener noreferrer">code</a>
-          <a href="https://devpost.com/software/compost-share" className="project-link" target="_blank" rel="noopener noreferrer">devpost</a>
+          <a href="https://essopenarchive.org/doi/full/10.22541/essoar.176556259.99226332/v1" className="project-link" target="_blank" rel="noopener noreferrer">paper</a>
         </div>
       </div>
       <hr />
@@ -80,13 +77,13 @@ function Projects() {
       </div>
       <hr />
       <div className="project">
-        <h3>Super Snazzy Schedule</h3>
-        <p className="project-subtitle"><em>Scheduling System</em></p>
+        <h3>ReCursive </h3>
+        <p className="project-subtitle"><em>Gamified Cursive Learning Platform </em></p>
         <p className="project-description">
-          Wellness app for students to maintain a healthy and productive schedule while quarantined. Submitted to Silicon Valley Hacks 2020. Built with Java.
+          Browser-based educational game for students to learn and practice cursive writing. Built with JS and HTML.
         </p>
         <div className="project-links">
-          <a href="https://github.com/jenaalsup/SuperSnazzySchedule" className="project-link" target="_blank" rel="noopener noreferrer">code</a>
+          <a href="https://github.com/ritwiksi/ReCursive" className="project-link" target="_blank" rel="noopener noreferrer">code</a>
         </div>
       </div>
     </div>
